@@ -1,1 +1,1 @@
-# GifTastic
+This application allows you to search for any game you would like to see 10 trending gifs of. By searching for a gif a button is created for you to click on which then acquires the gifs from giphy. Gifs should be able to be paused an played but I have yet to be able to code that part out.
